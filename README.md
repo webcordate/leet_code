@@ -6,4 +6,4 @@ Solutions to Leetcode questions
 
 Clone the repo on your computer
 
-```got clone ```
+```got clone https://github.com/webcordate/leet_code.git```
