@@ -6,4 +6,4 @@ Solutions to Leetcode questions
 
 Clone the repo on your computer
 
-'''got clone '''
+```got clone ```
