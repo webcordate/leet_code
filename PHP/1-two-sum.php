@@ -42,8 +42,11 @@ class Solution {
 /***********************
 - For testing purpose only.
 ************************
-$sol = new Solution();
+print_r('<pre>');
 print_r($sol->twoSum(array(2, 7, 11, 15), 9));
+print_r('</pre>');
 echo '</br>';
+print_r('<pre>');
 print_r($sol->twoSum(array(2, 3, 4, 5, 7, 11, 15), 9));
+print_r('</pre>');
 ************************/
