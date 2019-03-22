@@ -76,9 +76,6 @@ class Solution {
 			ptrB = ptrB.next;
 		}
 		
-		if(ptrA != ptrB)
-			return null;
-		
 		int extraNodes = Math.abs(countListA - countListB);
 		
 		ptrA = headA;
