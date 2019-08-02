@@ -29,11 +29,11 @@ class Solution {
 				zeroCount++;
 			}else{
 				nums[i-zeroCount] = nums[i];
+	
+				if(zeroCount > 0){
+					nums[i] = 0;
+				}
 			}
-		}
-		
-		for(int i = 1; i <= zeroCount; i++){
-			nums[aL - i] = 0;
 		}
     }
 }
